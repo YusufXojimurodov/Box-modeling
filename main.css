@@ -1,0 +1,42 @@
+body{
+    background-color: darkgreen;
+}
+h1{
+    font-size: 40px;
+    background-color: #311313;
+    width: 580px;
+    height: 70px;
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+    padding-left: 22px;
+    padding-right: 22px;
+    margin-left: 360px
+    
+}
+.ota{
+    width: 900px;
+    margin-left: 220px;
+    height: 615px;
+    background-color: black;
+    border: 10px solid red;
+}
+.qora{
+    width: 800px;
+    height: 230px;
+    background-color: aquamarine;    
+    margin: 30px auto;
+    font-size: 23px;
+    padding-top: 35px;
+}
+.yashil{
+    width: 800px;
+    height: 230px;
+    background-color: aquamarine;    
+    margin: 30px auto;
+    font-size: 23px;
+    padding-top: 35px;
+}
+ul{
+    list-style: none;
+}
